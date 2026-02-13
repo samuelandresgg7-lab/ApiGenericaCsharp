@@ -30,3 +30,4 @@ C:\Users\pc4cu-16\Desktop\Proyecto_Diseño\ApiGenericaCsharp\obj\Debug\net9.0\re
 C:\Users\pc4cu-16\Desktop\Proyecto_Diseño\ApiGenericaCsharp\obj\Debug\net9.0\ApiGenericaCsharp.pdb
 C:\Users\pc4cu-16\Desktop\Proyecto_Diseño\ApiGenericaCsharp\obj\Debug\net9.0\ApiGenericaCsharp.genruntimeconfig.cache
 C:\Users\pc4cu-16\Desktop\Proyecto_Diseño\ApiGenericaCsharp\obj\Debug\net9.0\ref\ApiGenericaCsharp.dll
+C:\Users\pc4cu-16\Desktop\Proyecto_Diseño\ApiGenericaCsharp\obj\Debug\net9.0\ApiGenericaCsharp.sourcelink.json
