@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1/kkhcNIDAs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pc4cu-16\\Desktop\\Proyecto_Diseño\\ApiGenericaCsharp\\ApiGenericaCsharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc4cu-16\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.12\\microsoft.aspnetcore.openapi.9.0.12.nupkg.sha512",
+    "C:\\Users\\pc4cu-16\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
